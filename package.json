@@ -1,0 +1,18 @@
+{
+  "name": "workinghour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "start": "nodemon workinghour.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.2"
+  }
+}
